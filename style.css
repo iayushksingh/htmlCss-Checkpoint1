@@ -177,11 +177,14 @@ p{
     background-color: green;
     padding: 0px auto;
     margin-top: 15px;
-    /* color: white; */
+}
+.btn a{
+    color: white;
 }
 .blog-article2{
     height: 60%;
 }
-.blog-a1{   
+.blog-article2 a{
+    color: green;
     text-decoration: underline;
 }
